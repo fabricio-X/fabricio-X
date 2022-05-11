@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Fabricio Pereira, currently studying Front-end web development at [@rocketseat](https://github.com/Rocketseat)
 <div align="center">
   <a href="https://github.com/fabricio-x">
-  <img style="display: inline;" height="150em" src="https://github-readme-stats.vercel.app/api?username=fabricio-x&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img style="display: inline;" height="150em" src="https://github-readme-stats.vercel.app/api?username=fabricio-x&show_icons=true&theme=dark&include_all_commits=false&count_private=true">
   <img style="display: inline;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-x&layout=compact&langs_count=7&theme=dark">
   </a>
 </div>
